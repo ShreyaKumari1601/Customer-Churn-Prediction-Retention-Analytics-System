@@ -108,17 +108,6 @@ sqlite3 data/processed/churn_warehouse.db < sql/queries.sql
 
 ---
 
-## 📊 Sample Visualizations
-
-| Churn by Contract Type | Churn by Tenure Group |
-|---|---|
-| ![contract](visuals/output/02_churn_by_contract.png) | ![tenure](visuals/output/03_churn_by_tenure_group.png) |
-
-| Revenue at Risk | Feature Importance |
-|---|---|
-| ![revenue](visuals/output/09_revenue_at_risk_by_contract.png) | ![features](visuals/output/10_feature_importance.png) |
-
-*(See `visuals/output/` for all 10 charts.)*
 
 ---
 
