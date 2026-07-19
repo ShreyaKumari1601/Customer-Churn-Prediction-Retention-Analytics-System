@@ -104,7 +104,7 @@ sqlite3 data/processed/churn_warehouse.db < sql/queries.sql
 - **$139K/month in revenue is currently at risk** from churned customers; **~$2.86M in estimated lifetime value already lost**.
 - A simple logistic regression model achieves **0.836 ROC-AUC** in predicting churn.
 
-📄 Full write-up: [`reports/Churn_Analysis_Report.md`](reports/Churn_Analysis_Report.md)
+
 
 ---
 
